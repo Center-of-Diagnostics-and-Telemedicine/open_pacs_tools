@@ -1,0 +1,6 @@
+!app
+app/backup
+app/backup/*
+clear.json
+.env
+.pass
