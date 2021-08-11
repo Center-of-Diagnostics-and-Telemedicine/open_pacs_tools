@@ -1,4 +1,4 @@
-![logo] + ![logo2]
+![logo]
 
 # PACS + BD + OHIF
 
@@ -74,4 +74,3 @@ sudo docker-compose up
 
 ---
 [logo]: https://book.orthanc-server.com/_images/orthanc.png
-[logo2]: https://ohif.org/wp-content/uploads/2017/11/logo.png
